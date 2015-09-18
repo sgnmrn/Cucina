@@ -1,0 +1,18 @@
+[
+    {
+        "costo": 10, 
+        "nome": "ravioli"
+    }, 
+    {
+        "costo": 8, 
+        "nome": "rigatoni"
+    }, 
+    {
+        "costo": 9, 
+        "nome": "linguine"
+    }, 
+    {
+        "costo": 11, 
+        "nome": "risotto"
+    }
+]
